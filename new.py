@@ -389,7 +389,7 @@ W = '\033[97;1m'
   
  logo = ("""\033[1;32m 
  '## 
- ..:::::..::..::::   NN   AAA   TTTTTTT IIIII  OOOOO  NN   NN            kk     
+NN   NN   AAA   TTTTTTT IIIII  OOOOO  NN   NN            kk     
 NNN  NN  AAAAA    TTT    III  OO   OO NNN  NN    vv   vv kk  kk 
 NN N NN AA   AA   TTT    III  OO   OO NN N NN     vv vv  kkkkk  
 NN  NNN AAAAAAA   TTT    III  OO   OO NN  NNN      vvv   kk kk  
