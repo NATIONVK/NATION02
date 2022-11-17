@@ -1,21 +1,12 @@
- 
-termux-setup-storage
+ rm -rf NATION02
 
 apt update && apt upgrade
 
 pkg install python
 
-pkg install git 
+pkg install git
 
-pip install requests
-
-pip install mechanize
-
-pip install bs4
-
-pip install rich
-
-git clone:https://github.com/NATIONVK/NATION02.git
+git clone https://github.com/NATIONVK/NATION02.git
 
 
 cd NATION02
